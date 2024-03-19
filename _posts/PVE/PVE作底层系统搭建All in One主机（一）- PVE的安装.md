@@ -21,7 +21,8 @@ Proxmox VE (PVE) 具有内置的 Web 界面，可让您轻松管理多个节点�
 
 点击[**链接**](https://www.ventoy.net/cn/download.html)下载Ventory，根据系统自己选择版本
 
-[![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/26f15155-41da-4b34-9ae6-005de5a1901c/6dbb7ad6-f939-4c16-a889-4cae4015c8e0/Untitled.png)](https://www.notion.so/PVE-All-in-One-PVE-f962bc1d9b02491a88b358a899fcdb2d?pvs=4#3df7a43203ef4f65806e6fb56dae8604)
+![image](https://github.com/LemonCrab666/LemonCrab666.github.io/assets/55867630/35bd9958-4338-47a6-9d08-551baacec7e4)
+
 
 解压后打开该文件
 
